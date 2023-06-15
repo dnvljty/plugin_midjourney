@@ -1,1 +1,1 @@
-from .mj import *
+from .mj2 import *
